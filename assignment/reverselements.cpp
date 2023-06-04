@@ -24,3 +24,16 @@ int main()
          cout << arr[i] << " ";
       }
 }
+
+
+//to get the reslut in lesser ms;(codingninja)
+//   int b = arr.size()-1;
+
+    // m++;  // increment m as we have to start reversing after m
+
+    // while(m<=b){
+
+    //     swap(arr[m],arr[b]);
+
+    //     m++;
+    //     b--;
